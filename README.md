@@ -1,5 +1,5 @@
 
-## Hi there, [alzotz](https://www.xing.com/profile/Alexander_Zotz3/cve) here
+## Hi there, [Alex](https://www.xing.com/profile/Alexander_Zotz3/cve) here
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)

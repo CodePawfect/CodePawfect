@@ -7,9 +7,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&pause=1500&width=470&lines=JAVA+OCP+11+%26+17+DEVELOPER;MICROSOFT+CERTIFIED+AZURE+DEVELOPER" />
 
 # 🎓 Certifications
-|                                  |                                   |                              | 
-|:--------------------------------:|:---------------------------------:|:----------------------------:|
-|  ![1.png](./badges/spring.png)   |   ![1.png](./badges/ocp17.png)    | ![1.png](./badges/ocp11.png) |
-| ![4.png](./badges/azure-dev.png) | ![1.png](./badges/azure-fund.png) | ![2](./badges/terraform.png) |
+|                                  |                                   |                                | 
+|:--------------------------------:|:---------------------------------:|:------------------------------:|
+|  ![1.png](./badges/spring.png)   |   ![1.png](./badges/ocp17.png)    | ![1.png](./badges/ocp11-2.png) |
+| ![4.png](./badges/azure-dev.png) | ![1.png](./badges/azure-fund.png) |  ![2](./badges/terraform.png)  |
 
 

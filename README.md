@@ -1,12 +1,10 @@
 
-## Hi there, [Alex](https://www.xing.com/profile/Alexander_Zotz3/cve) here
+## 👋 Hello, I'm, [Alex](https://www.xing.com/profile/Alexander_Zotz3/cve) a passionate coder with a heart for dogs! 🐾
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&pause=1500&width=470&lines=JAVA+OCP+11+%26+17+DEVELOPER;MICROSOFT+CERTIFIED+AZURE+DEVELOPER" />
-
-👋 Hello, I'm Alexander, a passionate coder with a heart for dogs! 🐾
 
 I thrive on the thrill of coding and the power it holds to transform ideas into reality. With a relentless curiosity and a commitment to continuous learning, I'm always on the lookout for innovative solutions to complex problems. My expertise lies in web application development with spring boot and java/ kotlin.
 

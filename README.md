@@ -12,8 +12,6 @@ Beyond my coding prowess, I actively contribute to the welfare of furry friends 
 
 Follow along as I embark on exciting coding adventures, building applications, solving challenges, and making a difference, one line of code at a time. Let's connect and collaborate on projects that push boundaries and make the world a better place.
 
-Ready to code and wag tails together? Let's get started! 🚀
-
 # 🎓 Certifications
 |                                  |                                   |                                | 
 |:--------------------------------:|:---------------------------------:|:------------------------------:|

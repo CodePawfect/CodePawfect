@@ -12,10 +12,11 @@ Beyond my coding prowess, I actively contribute to the welfare of furry friends 
 
 Follow along as I embark on exciting coding adventures, building applications, solving challenges, and making a difference, one line of code at a time. Let's connect and collaborate on projects that push boundaries and make the world a better place.
 
-# 🎓 Certifications
-|                                  |                                   |                                | 
-|:--------------------------------:|:---------------------------------:|:------------------------------:|
-|  ![1.png](./badges/spring.png)   |   ![1.png](./badges/ocp17.png)    | ![1.png](./badges/ocp11-2.png) |
-| ![4.png](./badges/azure-dev.png) | ![1.png](./badges/azure-fund.png) |  ![2](./badges/terraform.png)  |
+Checkout my linkedIn profile [here](https://www.linkedin.com/in/codepawfect)
 
+# 🎓 Certifications
+|                                |                                   |                                | 
+|:------------------------------:|:---------------------------------:|:------------------------------:|
+| ![1.png](./badges/spring2.png) |   ![1.png](./badges/ocp17.png)    | ![4.png](./badges/azure-dev.png) |
+| ![1.png](./badges/spring.png)  | ![1.png](./badges/ocp11-2.png) |  ![2](./badges/terraform.png)  |
 

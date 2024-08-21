@@ -15,8 +15,7 @@ Follow along as I embark on exciting coding adventures, building applications, s
 Checkout my linkedIn profile [here](https://www.linkedin.com/in/codepawfect)
 
 # 🎓 Certifications
-|                                |                                   |                                | 
-|:------------------------------:|:---------------------------------:|:------------------------------:|
-| ![1.png](./badges/spring2.png) |   ![1.png](./badges/ocp17.png)    | ![4.png](./badges/azure-dev.png) |
-| ![1.png](./badges/spring.png)  | ![1.png](./badges/ocp11-2.png) |  ![2](./badges/terraform.png)  |
-
+|                                |                                   |                                  | 
+|:------------------------------:|:---------------------------------:|:--------------------------------:|
+| ![1.png](./badges/spring2.png) |   ![2](./badges/ocp21.png)    | ![4.png](./badges/azure-dev.png) |
+| ![1.png](./badges/spring.png)  | ![1.png](./badges/ocp17.png) |     ![1.png](./badges/ocp11-2.png)    |

@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Montserrat&duration=7000&pause=1500&width=700&lines=Oracle Certified Professional Java SE Developer+21+%26+17+%26+11;MICROSOFT+CERTIFIED+AZURE+DEVELOPER;VMWARE+CERTIFIED+PROFESSIONAL+SPRING+DEVELOPER+2023" />
 
-I thrive on the thrill of coding and the power it holds to transform ideas into reality. With a relentless curiosity and a commitment to continuous learning, I'm always on the lookout for innovative solutions to complex problems. My expertise lies in web application development with spring boot and java/ kotlin.
+I thrive on the thrill of coding and the power it holds to transform ideas into reality. With a relentless curiosity and a commitment to continuous learning, I'm always on the lookout for innovative solutions to complex problems. My expertise lies in web application development with spring boot and java.
 
 Beyond my coding prowess, I actively contribute to the welfare of furry friends as a dedicated dog foster. By providing a loving and temporary home to dogs in need, I strive to make a positive impact on their lives and find them forever homes. It's a fulfilling social endeavor that keeps me grounded and reminds me of the importance of compassion in everything I do.
 

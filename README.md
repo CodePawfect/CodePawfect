@@ -7,7 +7,7 @@
 
 Find Wisdom
 
-Portfolio: https://github.com/CodePawfect/portfolio
+Portfolio: [https://github.com/CodePawfect/portfolio](https://codepawfect.github.io/portfolio/)
 
 # 🎓 Certifications
 |                                |                                   |                                  | 

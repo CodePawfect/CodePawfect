@@ -11,4 +11,4 @@ Find Wisdom
 |                                |                                   |                                  | 
 |:------------------------------:|:---------------------------------:|:--------------------------------:|
 | ![1.png](./badges/spring2.png) |   ![2](./badges/ocp21.png)    | ![4.png](./badges/azure-dev.png) |
-| ![1.png](./badges/spring.png)  | ![1.png](./badges/ocp17.png) |     ![1.png](./badges/ocp11-2.png)    |
+|  ![1.png](./badges/ckad.png)   | ![1.png](./badges/ocp17.png) | ![1.png](./badges/terraform.png) |
